@@ -1,4 +1,4 @@
-## Nome e Ra da equipe:
+## Nome e Ra da equipe  :
 
 - Pedro Henrique Jerôinomo Da Silva - 00000855155
 - Ygor de Tárcio da Silva Ferreira : 00000855656
@@ -8,3 +8,4 @@
 - Ludmylla Dias de Souza Santos:00000855172
 - Echilin Taina de Oliveira Santos:00000855327
 - Maysa Clara Cavalcante da Silva:00000855217
+.
